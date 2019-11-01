@@ -1,0 +1,6 @@
+export enum ErrCode {
+  ERR_NOT_INIT = 1,
+  ERR_INIT_FAILED = 2,
+  ERR_TRANSFER_FAILED = 3,
+  ERR_GET_TX_FAILED = 4,
+}
